@@ -22,7 +22,7 @@ Fiquem avontade para sugerirem ideias de melhorias, podem ser de código, de fun
 
 ### Resultado esperado
 
-![image](https://user-images.githubusercontent.com/92577781/194615725-fa660169-cc89-4214-9a72-635ab2072019.png)
+![image](https://user-images.githubusercontent.com/92577781/194621861-c9b8990e-f3e9-4899-b487-e0388d3662b6.png)
 
 
 ### Obrigada por ler até aqui!!!
