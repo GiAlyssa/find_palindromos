@@ -23,7 +23,7 @@ class StringProcessor
   end
 
   def print_results(position, max_len)
-   puts @string[(position-max_len+1)..(position+max_len-1)]
+   puts "O maior palindromo encontrado foi: #{@string[(position-max_len+1)..(position+max_len-1)]}"
   end
 
   def find_largest_palindrome
