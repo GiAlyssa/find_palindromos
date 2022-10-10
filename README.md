@@ -5,7 +5,7 @@ O objetivo desse arquivo é identificar o maior palindromo existente a partir da
 
 ### Para testar é necessário:
 
-- [ ]  Clonar o repositorio atravez de um terminal usando a chave SSH ``git clone git@github.com:GiAlyssa/find_palindromos.git`` ou a chave HTTPS ``https://github.com/GiAlyssa/find_palindromos.git``
+- [ ]  Clonar o repositorio atravez de um terminal usando a chave SSH ``git clone git@github.com:GiAlyssa/find_palindromos.git`` ou a chave HTTPS ``git clone https://github.com/GiAlyssa/find_palindromos.git``
 
 - [ ]  Após clonado usar no terminal usar no terminal o comando ``ruby palindromos.rb``
 
